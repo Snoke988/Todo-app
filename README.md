@@ -1,7 +1,7 @@
 # Todo App - Modern Task Management Solution
 
 Todo App Preview
-https://cdn.discordapp.com/attachments/1398589108187693107/1399796211665342474/Screen_Recording_2025-07-29_at_18.42.43.mov?ex=68a7f70f&is=68a6a58f&hm=0a93c4079d6ef308860d5fe16a1aa8c102c8765361239a2c5349785c81c37dae& )
+https://cdn.discordapp.com/attachments/1398589108187693107/1399796211665342474/Screen_Recording_2025-07-29_at_18.42.43.mov?ex=68a7f70f&is=68a6a58f&hm=0a93c4079d6ef308860d5fe16a1aa8c102c8765361239a2c5349785c81c37dae&
 
 A sleek, responsive task management application built with HTML5, CSS3, and Vanilla JavaScript. Features full CRUD operations, drag-and-drop reordering, local storage persistence, and a beautiful dark/light theme system.
 
