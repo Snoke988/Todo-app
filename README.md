@@ -4,7 +4,7 @@
 
 Welcome to the **Todo App** – a comprehensive, feature-rich task management application built with modern web technologies. This app provides an intuitive interface for organizing your daily tasks, projects, and responsibilities while offering advanced features like task categorization, priority settings, reminders, and seamless synchronization across devices.
 
-![Todo App Screenshot](https://via.placeholder.com/800x600?text=Todo+App+Interface)
+![Todo App Screenshot](https://cdn.discordapp.com/attachments/1398589108187693107/1399796211665342474/Screen_Recording_2025-07-29_at_18.42.43.mov?ex=68a7f70f&is=68a6a58f&hm=0a93c4079d6ef308860d5fe16a1aa8c102c8765361239a2c5349785c81c37dae&)
 
 ## ✨ Features
 
