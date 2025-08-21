@@ -1,6 +1,6 @@
 # Todo App - Modern Task Management Solution
 
-![Todo App Preview]((https://cdn.discordapp.com/attachments/1398589108187693107/1399796211665342474/Screen_Recording_2025-07-29_at_18.42.43.mov?ex=68a7f70f&is=68a6a58f&hm=0a93c4079d6ef308860d5fe16a1aa8c102c8765361239a2c5349785c81c37dae&)
+![Todo App Preview](https://cdn.discordapp.com/attachments/1398589108187693107/1399796211665342474/Screen_Recording_2025-07-29_at_18.42.43.mov?ex=68a7f70f&is=68a6a58f&hm=0a93c4079d6ef308860d5fe16a1aa8c102c8765361239a2c5349785c81c37dae&)
 
 A sleek, responsive task management application built with HTML5, CSS3, and Vanilla JavaScript. Features full CRUD operations, drag-and-drop reordering, local storage persistence, and a beautiful dark/light theme system.
 
@@ -65,7 +65,7 @@ Contributions are welcome! Please follow these steps:
 
 Fork the Project
 1. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-2. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+2. Commit your Changes (`git commit -m Add some AmazingFeature`)
 3. Push to the Branch (`git push origin feature/AmazingFeature`)
 4. Open a Pull Request
 
@@ -73,8 +73,5 @@ Fork the Project
 Distributed under the MIT License. See LICENSE for more information.
 
 🌟 Acknowledgements
-Font Awesome for icons
-Placeholder Images for demo images
-MDN Web Docs for reference
-Made with ❤️ by Snoke
+Made with ❤️ by **Snoke**
 Keep organized, stay productive!
