@@ -76,5 +76,5 @@ Distributed under the MIT License. See LICENSE for more information.
 Font Awesome for icons
 Placeholder Images for demo images
 MDN Web Docs for reference
-Made with ❤️ by [Snoke]
+Made with ❤️ by Snoke
 Keep organized, stay productive!
