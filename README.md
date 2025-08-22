@@ -57,7 +57,7 @@ The app is fully responsive and works seamlessly across:
 
 1. Clone the repository:
    bash
-`git clone https://github.com/yourusername/todo-app.git`
+`git clone https://github.com/Snoke988/todo-app.git`
 2. Open `index.html` in your preferred browser
 Start managing your tasks!
 
@@ -76,3 +76,6 @@ Distributed under the MIT License. See LICENSE for more information.
 🌟 Acknowledgements
 Made with ❤️ by **Snoke**
 Keep organized, stay productive!
+
+Join our discord community
+https://discord.gg/7hKT34y7cm
